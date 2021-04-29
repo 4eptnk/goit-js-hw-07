@@ -1,4 +1,4 @@
-const counterValue = 0;
+var counterValue = 0;
 function decrement(){
     if (counterValue > 0) {
         counterValue--;
